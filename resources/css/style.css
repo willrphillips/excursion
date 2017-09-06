@@ -1,0 +1,16 @@
+html {
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.app-link {
+  color: aquamarine;
+  font-size: 16px;
+}
